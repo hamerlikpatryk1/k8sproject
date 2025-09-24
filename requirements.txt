@@ -1,0 +1,4 @@
+Docker = 28.1.1+1
+Kubernetes Client Version: v1.34.1
+Kustomize Version: v5.7.1
+helm = 3.19.0
